@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @kristannbads
-- 👀 I’m interested in programming, going to the gym, playing basketball and watching anime.
-- 🌱 I’m currently learning Web Development in Udemy by Colt Steele.
-- 💞️ I’m looking to collaborate with other programmers.
-- 📫 You may reach me at kristbadua@gmail.com
+ ### Hi, I’m Kristann
+ ## Licensed Electrical Engineer pursuing my passion which is Information Technology
+ 
+- 👀 I’m really interested in programming and problem solving.
+- 🌱 I’m currently taking The Web Development Bootcamp 2022 in Udemy by Colt Steele.
+
+
+
+### Connect with me:
+[<img align="left" alt="hicarlodacuyan linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+(https://www.linkedin.com/in/kristann-badua-5447b894/)
+
+<br />
+
+### Languages and Tools:
+<img align="left" alt="html icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="css icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="javascript icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="npm icon" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="vscode icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+
 
 <!---
 kristannbads/kristannbads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
