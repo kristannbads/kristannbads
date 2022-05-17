@@ -7,8 +7,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="hicarlodacuyan linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
-(https://www.linkedin.com/in/kristann-badua-5447b894/)
+[<img align="left" alt="hicarlodacuyan linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kristann-badua-5447b894/)
 
 <br />
 
