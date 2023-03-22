@@ -1,9 +1,6 @@
  ### Hi, I’m Kristann
- ## Licensed Electrical Engineer pursuing my passion which is Information Technology
+ ## Software Engineer
  
-- 👀 I’m really interested in programming and problem solving.
-- 🌱 I’m currently taking The Web Development Bootcamp 2022 in Udemy by Colt Steele.
-
 
 
 ### Connect with me:
